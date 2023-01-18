@@ -28,7 +28,7 @@ font-family: 'Finger Paint', cursive;
 .app {
   background: #b9dff8;
   padding: 30px;
-  height: 100vh;
+  height: 100%;
   border-radius: 4px;
 }
 
