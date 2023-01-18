@@ -1,4 +1,4 @@
-<img src="Todo-app_pic.png">
+<img src="Todo-app_pic.png" width=300>
 # Product Description
 ## React application
 <p>Todo list app with Add/Remove features</p>
@@ -10,8 +10,8 @@
 <li>Or can run with "Live Server" extension in VS Code</li>
 
 # Aknowledgments
-## Code done during MIT xPro tutorial with Abel Sanchez, Mod. 14.
-## Some styling done with MIT. 
+## Code done during MIT xPro tutorial with Abel Sanchez, Mod. 14
+## Styling done with MIT, some done by myself 
 
 # License
 ## MIT License
