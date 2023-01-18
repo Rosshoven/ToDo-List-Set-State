@@ -14,7 +14,7 @@ function TodoForm({addTodo}) {
   }
     
   return (
-    /* creating form  that has an input element for user to enter value. When form is submitted we handle event with handleSubmit*/
+    /* creating form that has an input element for user to enter value. When form is submitted we handle event with handleSubmit*/
     <form onSubmit={handleSubmit}>
         <input 
             type="text" 
