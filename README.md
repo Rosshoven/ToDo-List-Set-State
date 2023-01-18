@@ -1,4 +1,4 @@
-<img src="./Styles_Images/Todo-app_pic.png" width=350>
+<img src="Todo-app_pic.png" width=350>
 
 # Product Description
 ## React application: Todo list with Add/Remove features
