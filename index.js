@@ -38,9 +38,11 @@ function App(){
 
   const removeTodo = e => {
     const index = Number(e.target.id);
+    // temporary list as current list of todos
     let temp = [...todos];
-    // go to indexs in array and remove 1 item
+    // go to index in array and remove 1 item
     temp.splice(index, 1);
+    // current state to new state
     setTodos(temp);
   }
   // write jsx so the above displays in the browser, writitng a loop to go through the list
