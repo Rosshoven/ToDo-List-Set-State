@@ -20,7 +20,7 @@ function TodoForm({addTodo}) {
             type="text" 
             className="input" 
             value={value}
-            placeholder="Add todo ..."
+            placeholder="Add todo ... Press Ent"
             onChange={e => setValue(e.target.value)}
             />
     </form>
