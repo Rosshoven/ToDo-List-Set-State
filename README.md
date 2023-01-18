@@ -1,4 +1,5 @@
 <img src="Todo-app_pic.png" width=300>
+
 # Product Description
 ## React application
 <p>Todo list app with Add/Remove features</p>
