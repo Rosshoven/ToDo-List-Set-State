@@ -12,6 +12,7 @@ h1 {
   font-size:xxx-large;
   color: #ebc697;
   font-style: oblique;
+
 }
 
 code {
@@ -32,7 +33,7 @@ code {
 }
 
 .todo{
-  background: #fff;
+  background: #ebc697;;
   box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
   padding: 3px 10px;
   font-size: 24px;
