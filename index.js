@@ -3,10 +3,10 @@ function App(){
 
   // initial state
   const [todos, setTodos] = React.useState([
-    {
-      text: 'Learn React',
-      isCompleted: false,
-    },
+    // {
+    //   text: 'Learn React',
+    //   isCompleted: false,
+    // },
     // {
     //   text: 'Meet Mike for lunch',
     //   isCompleted: false,
