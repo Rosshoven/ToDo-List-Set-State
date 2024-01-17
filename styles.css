@@ -28,7 +28,7 @@ font-family: 'Finger Paint', cursive;
 
 .app {
   background: #b9dff8;
-  padding: 3rem;
+  padding: 1rem;
   height: 100%;
   border-radius: 4px;
   /* width: 100%; */
@@ -38,7 +38,7 @@ font-family: 'Finger Paint', cursive;
 .todo-list{
   background: #e8e8e8;
   border-radius: 4px;
-  padding: 5px;
+  padding: 4px;
   /* max-width: 400px; */
 }
 
@@ -79,11 +79,16 @@ font-family: 'Finger Paint', cursive;
   margin-bottom: 1%;
 }
 
-@media only screen and (max-width: 375px) {
+form input{
+  font-size: 1rem;
+}
+
+/* PHONE */
+/* @media only screen and (max-width: 375px) {
 
   .input,
   .todo {
     font-size: 2rem;
 }
 
-}
+} */
